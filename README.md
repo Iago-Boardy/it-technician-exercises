@@ -13,7 +13,7 @@
 - HTML
 - CSS
 
-Each language section includes a variety of exercises-.
+Each language section includes a variety of exercises aimed at enhancing your proficiency in programming and web development.
 
 ### 📂 File Manipulation in C
 
@@ -25,8 +25,9 @@ Development of a complete project using Java, integrating with a database for ef
 
 ### 🌐 Database Project in PHP
 
-Implementation of dynamic web applications using PHP combined with database systems. 
+Implementation of dynamic web applications using PHP combined with database systems.
 
 ---
 
-Feel free to explore each section for detailed exercises and projects related to IT Technician training.
+Feel free to explore each section for detailed exercises and projects related to IT Technician training. Note that the Florybal Website project is hosted in a separate repository.
+The Florybal Website is the final project for the IT course, and it resides in a separate repository.
