@@ -4,7 +4,7 @@
 
 ## Contents
 
-### 📚 Exercícios em Diferentes Linguagens
+### 📚 Exercises in Different Languages
 
 - Java
 - C#
@@ -13,17 +13,17 @@
 - HTML
 - CSS
 
-### 📂 Manipulação de Arquivos em C
+### 📂 File Manipulation in C
 
-Exercícios e projetos que envolvem leitura, escrita e manipulação de arquivos utilizando a linguagem C.
+Exercises and projects involving reading, writing, and manipulating files using the C language.
 
-### 📊 Projeto com Banco de Dados em Java
+### 📊 Database Project in Java
 
-Desenvolvimento de um projeto completo que inclui a utilização de um banco de dados em Java para armazenamento e recuperação de informações.
+Development of a complete project that includes using a Java database for storing and retrieving information.
 
-### 🌐 Projeto com Banco de Dados em PHP
+### 🌐 Database Project in PHP
 
-Implementação de um projeto que utiliza PHP em conjunto com um banco de dados para criar aplicações web dinâmicas e interativas.
+Implementation of a project that uses PHP together with a database to create dynamic and interactive web applications.
 
 ---
 
