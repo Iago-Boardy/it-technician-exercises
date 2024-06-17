@@ -7,6 +7,7 @@
 ### 📚 Exercises in Different Languages
 
 - Java
+- C
 - C#
 - SQL
 - PHP
