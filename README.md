@@ -1,6 +1,6 @@
 <h1 align="center">🖥️ IT Technician Exercises</h1>
 
-<p align="center">Welcome to the IT Technician repository! Here you will find a collection of exercises and projects that encompass the core skills and knowledge acquired during our IT Technician course. This repository contains the main exercises completed throughout our IT course.</p>
+<p align="center">Welcome to the IT Technician repository! Here you will find a collection of exercises and projects that encompass the core skills and knowledge acquired during our IT Technician course. This repository contains the main exercises completed throughout our IT course. All code is written in Portuguese (BR).</p>
 
 ## Contents
 
