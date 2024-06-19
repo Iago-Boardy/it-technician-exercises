@@ -1,6 +1,6 @@
-<h1 align="center">🖥️ IT Technician Exercises</h1>
+<h1 align="center">🖥️ IT Exercises</h1>
 
-<p align="center">Welcome to the IT Technician repository! Here you will find a collection of exercises and projects that encompass the core skills and knowledge acquired during our IT Technician course. This repository contains the main exercises completed throughout our IT course. All code is written in Portuguese (BR).</p>
+<p align="center">Welcome to the IT repository! Here you will find a collection of exercises and projects that encompass the core skills and knowledge acquired during our IT course. This repository contains the main exercises completed throughout our IT course. All code is written in Portuguese (BR).</p>
 
 ## Contents
 
@@ -30,5 +30,5 @@ Implementation of dynamic web applications using PHP combined with database syst
 
 ---
 
-Feel free to explore each section for detailed exercises and projects related to IT Technician training. Note that the Florybal Website project is hosted in a separate repository.
+Feel free to explore each section for detailed exercises and projects related to IT training. Note that the Florybal Website project is hosted in a separate repository.
 The Florybal Website is the final project for the IT course, and it resides in a separate repository.
