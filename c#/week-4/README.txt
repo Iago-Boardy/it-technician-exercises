@@ -1,0 +1,1 @@
+Nessa semana em C#, fizemos exercícios utilizando de loops como For e While.
