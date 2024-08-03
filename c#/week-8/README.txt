@@ -1,0 +1,1 @@
+Aprendendo a como usar o Try e o Catch e as Exceptions.
