@@ -1,0 +1,1 @@
+Aqui trabalhamos com o método binário de pesquisa.
