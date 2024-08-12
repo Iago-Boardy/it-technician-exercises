@@ -1,0 +1,1 @@
+Esse é um jogo de termo, ou Worldle, feito em C.
