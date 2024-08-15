@@ -1,0 +1,1 @@
+Nessa semana, começamos a trabalhar com funções de C#, as sub-rotinas. 
